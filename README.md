@@ -13,6 +13,7 @@ brew install sriinnu/tap/<cask-name>
 | Cask | App | Source |
 |---|---|---|
 | `mimo` | Mimo — menu-bar git identity switcher with a mascot | [sriinnu/Mimo](https://github.com/sriinnu/Mimo) |
+| `tokmeterbar` | TokmeterBar — menu-bar token usage tracker for AI coding agents | [sriinnu/tokmeter](https://github.com/sriinnu/tokmeter) |
 
 ## Updating
 
