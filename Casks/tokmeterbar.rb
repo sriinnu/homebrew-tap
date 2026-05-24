@@ -1,6 +1,6 @@
 cask "tokmeterbar" do
   version "1.5.0"
-  sha256 :no_check # TODO: pin sha256 once TokmeterBar-#{version}.zip lands on the GitHub release
+  sha256 "fa53d6bf5626739a10985812a3af7f78f10c67e0e48cabd655aec8515332ed33"
 
   url "https://github.com/sriinnu/tokmeter/releases/download/v#{version}/TokmeterBar-#{version}.zip"
   name "TokmeterBar"
