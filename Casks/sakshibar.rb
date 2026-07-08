@@ -1,6 +1,6 @@
 cask "sakshibar" do
-  version "0.1.0"
-  sha256 "dfa0c2cdcc958813f17c3cde66d701f57472eb7b7ad21be2b656cc8feef3a2c6"
+  version "0.1.1"
+  sha256 "a72533091a623caccef8b5888e167042f953328730dcb252da5fcd2630297095"
 
   url "https://github.com/sriinnu/local-models-bar/releases/download/v#{version}/SakshiBar-#{version}.zip"
   name "SakshiBar"
