@@ -1,6 +1,6 @@
 cask "tokmeterbar" do
-  version "1.9.1"
-  sha256 "45d20e82d6efdda6c67b34c2786a98faec206dbd6c006305c1297e76bcd35d94"
+  version "1.9.2"
+  sha256 "fd095f9816cd9f519944688305e4849af56dd52244b3ef958484cdecc68fcb48"
 
   url "https://github.com/sriinnu/tokmeter/releases/download/v#{version}/TokmeterBar-#{version}.zip"
   name "TokmeterBar"
