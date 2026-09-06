@@ -1,6 +1,6 @@
 cask "tokmeterbar" do
-  version "1.9.2"
-  sha256 "fd095f9816cd9f519944688305e4849af56dd52244b3ef958484cdecc68fcb48"
+  version "1.10.0"
+  sha256 "99ba228bae715a289175f0cb8d83549c63b12d7d2fdb9d41c3c6a1b7d799ad3d"
 
   url "https://github.com/sriinnu/tokmeter/releases/download/v#{version}/TokmeterBar-#{version}.zip"
   name "TokmeterBar"
@@ -13,6 +13,7 @@ cask "tokmeterbar" do
   end
 
   auto_updates true
+  depends_on arch: :arm64
   depends_on macos: ">= :sonoma"
 
   app "TokmeterBar.app"
