@@ -20,7 +20,7 @@ cask "usher" do
   # the calibration record. Only removed on `brew uninstall --zap`.
   zap trash: [
     "~/Library/Application Support/Usher",
-    "~/Library/Preferences/com.sriinnu.usher.plist",
     "~/Library/HTTPStorages/com.sriinnu.usher",
+    "~/Library/Preferences/com.sriinnu.usher.plist",
   ]
 end
