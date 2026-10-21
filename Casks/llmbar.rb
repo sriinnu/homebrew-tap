@@ -1,6 +1,6 @@
 cask "llmbar" do
-  version "0.3.0"
-  sha256 "34fb2747929cd05b9e5036a3ab209bb071f8d625e223df343dfa81959cbc936d"
+  version "0.4.0"
+  sha256 "e70b97d62817863337688d9a33336a191508d7b98a346572eedf88c120d093ea"
 
   url "https://github.com/sriinnu/llm-bar/releases/download/v#{version}/LLMBar-#{version}.zip"
   name "LLM Bar"
@@ -13,7 +13,7 @@ cask "llmbar" do
   end
 
   auto_updates true
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "LLMBar.app"
 
