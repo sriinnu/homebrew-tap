@@ -1,6 +1,6 @@
 cask "llmbar" do
-  version "0.4.0"
-  sha256 "e70b97d62817863337688d9a33336a191508d7b98a346572eedf88c120d093ea"
+  version "0.5.0"
+  sha256 "cb5aac9b0ba8099fbeab1d22da0ea7082ccb13b5e7b1b4b2727212e7c6682059"
 
   url "https://github.com/sriinnu/llm-bar/releases/download/v#{version}/LLMBar-#{version}.zip"
   name "LLM Bar"
