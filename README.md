@@ -12,6 +12,7 @@ brew install sriinnu/tap/<cask-name>
 
 | Cask | App | Source |
 |---|---|---|
+| `broom` | Broom — fast, exact disk-space explorer with a live sunburst and a menu-bar search-and-clean; also installs the `broom` CLI | [sriinnu/broom](https://github.com/sriinnu/broom) |
 | `mimo` | Mimo — menu-bar git identity switcher with a mascot | [sriinnu/Mimo](https://github.com/sriinnu/Mimo) |
 | `portpilot` | PortPilot — menu bar port manager with kill, proxy, and cron control | [sriinnu/portpilot](https://github.com/sriinnu/portpilot) |
 | `llmbar` | LLM Bar — menu-bar view of local LLMs (llama.cpp, Ollama, HF) and Claude Code cloud lanes with live health (was `sakshibar`) | [sriinnu/llm-bar](https://github.com/sriinnu/llm-bar) |
