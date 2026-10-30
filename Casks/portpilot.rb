@@ -1,6 +1,6 @@
 cask "portpilot" do
-  version "3.1.0"
-  sha256 "f1e7d9cd7b8517dda380e42d272cfc4c7afd2f23d70285b2b7e483afb04f2b2b"
+  version "3.5.8"
+  sha256 "84c936b880131b802c2eb57778d3a3b36d3a239f1b6662b7999c28133cdfe565"
 
   url "https://github.com/sriinnu/portpilot/releases/download/v#{version}/PortPilot-macOS-app.zip"
   name "PortPilot"
