@@ -4,7 +4,7 @@ cask "llmbar" do
 
   url "https://github.com/sriinnu/llm-bar/releases/download/v#{version}/LLMBar-#{version}.zip"
   name "LLM Bar"
-  desc "Local models, Claude Code lanes and your coding agents' git worktrees in the menu bar"
+  desc "Local models, Claude Code lanes and agent git worktrees in the menu bar"
   homepage "https://github.com/sriinnu/llm-bar"
 
   livecheck do
@@ -18,10 +18,10 @@ cask "llmbar" do
   app "LLMBar.app"
 
   zap trash: [
-    "~/Library/Preferences/com.sriinnu.llmbar.plist",
     "~/Library/Application Support/com.sriinnu.llmbar",
     "~/Library/Application Support/LLMBar",
     "~/Library/Caches/com.sriinnu.llmbar",
     "~/Library/HTTPStorages/com.sriinnu.llmbar",
+    "~/Library/Preferences/com.sriinnu.llmbar.plist",
   ]
 end
