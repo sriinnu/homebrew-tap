@@ -1,10 +1,10 @@
 cask "llmbar" do
-  version "0.5.1"
-  sha256 "66c72c90c6eb0283d33163ee46f8980df94ea523416275c7795e7d72bce905ab"
+  version "0.6.0"
+  sha256 "b5812220a7dcc3bcd5a01c64edbbb0e4aafcb8fc7bac80f82663e122df30acea"
 
   url "https://github.com/sriinnu/llm-bar/releases/download/v#{version}/LLMBar-#{version}.zip"
   name "LLM Bar"
-  desc "Every model you can reach, in the menu bar — local llama.cpp/Ollama/HF models and Claude Code cloud lanes with live health"
+  desc "Local models, Claude Code lanes and agent git worktrees in the menu bar"
   homepage "https://github.com/sriinnu/llm-bar"
 
   livecheck do
@@ -18,9 +18,10 @@ cask "llmbar" do
   app "LLMBar.app"
 
   zap trash: [
-    "~/Library/Preferences/com.sriinnu.llmbar.plist",
     "~/Library/Application Support/com.sriinnu.llmbar",
+    "~/Library/Application Support/LLMBar",
     "~/Library/Caches/com.sriinnu.llmbar",
     "~/Library/HTTPStorages/com.sriinnu.llmbar",
+    "~/Library/Preferences/com.sriinnu.llmbar.plist",
   ]
 end
