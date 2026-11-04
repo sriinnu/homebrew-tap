@@ -4,7 +4,7 @@ cask "tokmeterbar" do
 
   url "https://github.com/sriinnu/tokmeter/releases/download/v#{version}/TokmeterBar-#{version}.zip"
   name "TokmeterBar"
-  desc "Menu-bar token usage tracker for AI coding agents (Claude Code, Codex, Gemini, +13 more)"
+  desc "Menu-bar token usage tracker for AI coding agents (Claude Code, Codex, Gemini, +21 more)"
   homepage "https://github.com/sriinnu/tokmeter"
 
   livecheck do
