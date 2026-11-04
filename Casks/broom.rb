@@ -1,6 +1,6 @@
 cask "broom" do
-  version "0.4.0"
-  sha256 "21abcde77f2508d09d979bd459edf0ca8ebb8d860f82d7afb30e42e10a6683dd"
+  version "0.5.0"
+  sha256 "bf9d72485014ce9d15c3040252a3d3742802ca5928c8cab4b9d0d9f27ce00ba4"
 
   url "https://github.com/sriinnu/broom/releases/download/v#{version}/Broom-#{version}.dmg"
   name "Broom"
