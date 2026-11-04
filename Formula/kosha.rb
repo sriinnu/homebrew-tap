@@ -1,8 +1,8 @@
 class Kosha < Formula
   desc "AI model registry: discover models, pricing, routes and spend across providers"
   homepage "https://github.com/sriinnu/kosha-discovery"
-  url "https://registry.npmjs.org/@sriinnu/kosha-discovery/-/kosha-discovery-1.12.1.tgz"
-  sha256 "bc93be757b4d95cd0dae4b4f9cea64e565507e4fb9095cbd8ca2b5113a2fa038"
+  url "https://registry.npmjs.org/@sriinnu/kosha-discovery/-/kosha-discovery-1.13.0.tgz"
+  sha256 "13ec2482bfb0cbde6174371ecb2b6a0efa3aaf635a0be9d78aaa4c5bd2e2ddde"
   license "MIT"
 
   depends_on "node"
