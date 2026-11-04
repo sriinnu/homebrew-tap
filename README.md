@@ -18,6 +18,13 @@ brew install sriinnu/tap/<cask-name>
 | `llmbar` | LLM Bar — menu-bar view of local LLMs (llama.cpp, Ollama, HF) and Claude Code cloud lanes with live health (was `sakshibar`) | [sriinnu/llm-bar](https://github.com/sriinnu/llm-bar) |
 | `tokmeterbar` | TokmeterBar — menu-bar token usage tracker for AI coding agents | [sriinnu/tokmeter](https://github.com/sriinnu/tokmeter) |
 
+## Available formulae
+
+| Formula | Tool | Source |
+|---|---|---|
+| `kosha` | Kosha — AI model registry: models, pricing, routes and spend across providers, as a CLI, library, proxy and MCP server | [sriinnu/kosha-discovery](https://github.com/sriinnu/kosha-discovery) |
+| `omit` | Omit — editorial discipline for AI coding agents | [sriinnu/omit](https://github.com/sriinnu/omit) |
+
 ## Updating
 
 Casks auto-update via Sparkle once installed. For new versions through Homebrew:
