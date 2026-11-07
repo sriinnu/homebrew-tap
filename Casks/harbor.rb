@@ -1,6 +1,6 @@
 cask "harbor" do
-  version "0.2.0"
-  sha256 "b89aa3cc456dcf4c2461c9e46db8f697a81ed1c24f784d7c6c1077d2f59a15cd"
+  version "0.2.1"
+  sha256 "5de5ea3d6c1c6f27e33105ba52b64a841a1ec2b77f1250ee104e8290753910f0"
 
   url "https://github.com/sriinnu/harbor/releases/download/v#{version}/Harbor-#{version}.zip"
   name "Harbor"
