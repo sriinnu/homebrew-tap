@@ -1,8 +1,8 @@
 class Omit < Formula
   desc "Editorial discipline for AI coding agents: draft less, cite everything, cut last"
   homepage "https://github.com/sriinnu/omit"
-  url "https://registry.npmjs.org/@sriinnu/omit/-/omit-0.7.0.tgz"
-  sha256 "05c855793c746c545649d536544c406ddb11e99ee6394f6ceab744fb9039d768"
+  url "https://registry.npmjs.org/@sriinnu/omit/-/omit-0.8.0.tgz"
+  sha256 "cdd7d7c7f4e712f3409dcff4ddac048f12182b30859ed27d95ee56b8d1ae1e5a"
   license "MIT"
 
   depends_on "node"
