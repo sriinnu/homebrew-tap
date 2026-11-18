@@ -1,6 +1,6 @@
 cask "runic" do
-  version "2.15.3"
-  sha256 "f12801388751ab7c18e7009be88c6f2505835977a95e38905b305997dcaad9d1"
+  version "2.15.4"
+  sha256 "94bbee973bc8dbeb5a59a70f2f9912777ae84e8d4d2283499fd351cfa8094576"
 
   url "https://github.com/sriinnu/Runic/releases/download/v#{version}/Runic-#{version}.zip"
   name "Runic"
