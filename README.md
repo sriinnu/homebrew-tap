@@ -17,6 +17,7 @@ brew install sriinnu/tap/<cask-name>
 | `portpilot` | PortPilot — menu bar port manager with kill, proxy, and cron control | [sriinnu/portpilot](https://github.com/sriinnu/portpilot) |
 | `llmbar` | LLM Bar — menu-bar view of local LLMs (llama.cpp, Ollama, HF) and Claude Code cloud lanes with live health (was `sakshibar`) | [sriinnu/llm-bar](https://github.com/sriinnu/llm-bar) |
 | `tokmeterbar` | TokmeterBar — menu-bar token usage tracker for AI coding agents | [sriinnu/tokmeter](https://github.com/sriinnu/tokmeter) |
+| `fichebar` | FicheBar — native menu-bar control center for Fiche context compiler | [sriinnu/fiche](https://github.com/sriinnu/fiche) |
 
 ## Available formulae
 
@@ -24,6 +25,7 @@ brew install sriinnu/tap/<cask-name>
 |---|---|---|
 | `kosha` | Kosha — AI model registry: models, pricing, routes and spend across providers, as a CLI, library, proxy and MCP server | [sriinnu/kosha-discovery](https://github.com/sriinnu/kosha-discovery) |
 | `omit` | Omit — editorial discipline for AI coding agents | [sriinnu/omit](https://github.com/sriinnu/omit) |
+| `fiche` | Fiche — cache-safe hybrid optical & deterministic text context compiler + local proxy (`fiche`, `fiche-mcp`) | [sriinnu/fiche](https://github.com/sriinnu/fiche) |
 
 ## Updating
 
