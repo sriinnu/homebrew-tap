@@ -1,8 +1,8 @@
 class Fiche < Formula
   desc "Cache-safe hybrid optical & deterministic text context compiler + local proxy"
   homepage "https://github.com/sriinnu/fiche"
-  url "https://registry.npmjs.org/@sriinnu/fiche/-/fiche-0.19.0.tgz"
-  sha256 "f30c71a2bf5d0f9ace416d83511ca8176b3b269d7c667fe446dfefff1a296149"
+  url "https://registry.npmjs.org/@sriinnu/fiche/-/fiche-0.20.1.tgz"
+  sha256 "658f9298899f8ca1827556a53345190bbdae52f54e960333ae9c6ae1ea841f67"
   license "MIT"
 
   depends_on "node"
