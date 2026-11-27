@@ -1,6 +1,6 @@
 cask "fichebar" do
-  version "0.19.0"
-  sha256 "9f1c8cd78d8ba9c15e9f406e865c90448caa66f84f76e87e9304af096929f3cf"
+  version "0.20.0"
+  sha256 "8f4f66d9f1e7911fa55adfba55916f64b0ff3c1f2893eaf9879819a26c16b27b"
 
   url "https://github.com/sriinnu/fiche/releases/download/v#{version}/FicheBar-#{version}.zip"
   name "FicheBar"
